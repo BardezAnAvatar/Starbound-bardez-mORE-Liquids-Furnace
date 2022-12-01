@@ -21,3 +21,7 @@ This mod does the following:
     - Molten/Currency Pixel
 - Leaves the existing furnace3 and pixelcompressor recipe files in-place but edits them to point elsewhere
   - It's sloppy, but does enable better mod inter-compatability :(
+
+
+## Attributions
+- mORE Liquids logo appropriated from the [mORE Liquids](https://steamcommunity.com/sharedfiles/filedetails/?id=1318339314) mod
