@@ -2,6 +2,6 @@
   {
     "op": "replace",
     "path": "/groups",
-    "value": [ "craftingfurnace1", "smelt" ]
+    "value": ["craftingfurnace", "coalesce"]
   }
 ]
