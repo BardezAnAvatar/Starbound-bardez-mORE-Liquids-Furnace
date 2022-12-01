@@ -1,0 +1,9 @@
+{
+  "author" : "Bardez",
+  "description" : "This mod is based upon the following mods:\n[list]\n  [*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=1318339314]mORE Liquids[/url]\n  [*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2895554927]Molten Liquids tabs for Furnace[/url]\n[/list]\n\nThis mod does the following:\n[list]\n  [*] Moves the pixel compressor recipes from mORE Liquids to atomic furnace\n  [*] Moves the recipes to the furnace's new tabs\n  [*] Allows the recipes to be crafted in appropriate generations, as follows:\n    [list]\n      [*]Primitive Furnace:\n      [list]\n        [*]Molten/Bar Copper\n        [*]Molten/Bar Gold\n        [*]Molten/Bar Iron\n        [*]Molten/Bar Silver\n        [*]Molten/Bar Tungsten\n      [/list]\n      [*]Industrial Furnace:\n      [list]\n        [*]Molten/Bar Titanium\n      [/list]\n      [*]Atomic Furnace:\n      [list]\n        [*]Molten/Ore Coal\n        [*]Molten/Currency Pixel\n      [/list]\n    [/list]\n  [*] Leaves the existing furnace3 and pixelcompressor recipe files in-place but edits them to point to other crafting station categories\n    [list]\n      [*]It's sloppy, but does enable better mod inter-compatability :(\n    [/list]\n[/list]\n\n\n\nBoring Stuff:\n[url=https://github.com/BardezAnAvatar/Starbound-bardez-mORE-Liquids-Furnace]Source on GitHub[/url]\n\n[b]Attributions[/b]:\n[list]\n  [*]mORE Liquids logo appropriated from the [url=https://steamcommunity.com/sharedfiles/filedetails/?id=1318339314]mORE Liquids[/url] mod\n[/list]\n",
+  "friendlyName" : "mORE Liquids Recipes at Furnace",
+  "includes" : ["bardez_furnace_liquids", "mORE Liquids"],
+  "name" : "bardez_mORE_liquids_furnace",
+  "tags" : "Crafting and Building",
+  "version" : "1.0.0"
+}
