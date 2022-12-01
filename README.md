@@ -19,3 +19,5 @@ This mod does the following:
   - Atmoic Furnace:
     - Coal
     - Pixel
+- Leaves the existing furnace3 and pixelcompressor recipes in-place but edits them to point elsewhere
+  - It's sloppy, but does enable better mod inter-compatability :(
